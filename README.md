@@ -1,4 +1,5 @@
 # Cell-counting-GUI-MATLABGUI-
+Environment：`MATLAB2018a`
 包含三大板块，图像变换，图像增强和细胞计数;
 CalCellNum_qka是主函数,使用直接点击CalCellNum_qka.m即可;
 code中还存放两幅经典细胞图片的处理;
